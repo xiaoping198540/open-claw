@@ -206,6 +206,7 @@
     "oxfmt": "0.33.0",
     "oxlint": "^1.48.0",
     "oxlint-tsgolint": "^0.14.1",
+    "ppom": "^0.1.1",
     "signal-utils": "0.21.1",
     "tsdown": "^0.20.3",
     "tsx": "^4.21.0",
